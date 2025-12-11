@@ -1,0 +1,10 @@
+:root {
+  color-scheme: light dark;
+
+  --bg1: light-dark(#fafafa, #161616);
+  --bg2: light-dark(#f0f0f0, #1e1e1e);
+  --bg3: light-dark(#e5e5e5, #111);
+  --fg1: light-dark(#1a1a1a, #e0e0e0);
+  --fg2: light-dark(#666, #888);
+  --link: light-dark(#0066cc, #6aadff);
+}
