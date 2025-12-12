@@ -10,7 +10,7 @@ hello@ | [rstk.dev](https://rstk.dev/) | [GitHub](https://github.com/rstnk)
 
 **Languages:** R, Python, SQL, Go
 
-**Tools:** Git, dbt, Github Actions, Docker, Terraform, Claude Code (agentic coding tool)
+**Tools:** Git, dbt, Github Actions, Docker, Terraform, Claude Code
 
 ## Employment History
 
