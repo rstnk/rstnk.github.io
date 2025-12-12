@@ -10,7 +10,7 @@ hello@ | [rstk.dev](https://rstk.dev/) | [GitHub](https://github.com/rstnk)
 
 **Languages:** R, Python, SQL, Go
 
-**Tools:** Git, dbt, Github Actions (CI/CD), Docker, Terraform (IaC), Claude Code (agentic coding tool)
+**Tools:** Git, dbt, Github Actions, Docker, Terraform, Claude Code (agentic coding tool)
 
 ## Employment History
 
@@ -26,43 +26,43 @@ hello@ | [rstk.dev](https://rstk.dev/) | [GitHub](https://github.com/rstnk)
 
 **Data Engineer** · Delfi Diagnostics
 
-Specializing in pipeline automation, data integration, and making data more accessible across the organization.
+Building pipelines, integrating data sources, and making data easier to access across the company.
 
-- Built and maintained CI/CD pipelines for data workflows and infrastructure deployments.
-- Automated ETL processes using GitHub Actions, Docker, and Dagster orchestration.
-- Integrated data from diverse external sources including APIs, SFTP servers, and email.
-- Designed and implemented a data quality system with validation checks, monitoring reports, and alerts.
-- Developed internal Python and R packages.
-- Created BI dashboards for data visualization and reporting.
-- Derived semantic layers and clinical variables following CDISC/ADaM standards.
-- Executed programmatic biosample selection aligned with cross-functional requirements.
-- Contributed to team documentation, including technical guides, best practices, and onboarding materials.
-- Built an LLM chatbot with DuckDB MCP server integration, enabling natural language queries of internal data.
+- Built CI/CD pipelines for data workflows and infrastructure deployments.
+- Automated ETL with GitHub Actions, Docker, and Dagster.
+- Pulled in data from APIs, SFTP servers, and email inboxes.
+- Set up data quality checks, monitoring dashboards, and alerting.
+- Wrote internal Python and R packages.
+- Built BI dashboards for reporting.
+- Created semantic layers and clinical variables (CDISC/ADaM).
+- Ran programmatic biosample selection based on study requirements.
+- Wrote technical docs, best practices guides, and onboarding materials.
+- Built an LLM chatbot with DuckDB MCP integration for natural language data queries.
+- Introduced Databricks to the team and helped with adoption.
 
 **Program Manager** · N-Power Medicine
 
-Drove cross-functional program management and software development initiatives.
+Coordinated software development and cross-team projects.
 
-- Led coordination of complex work-streams across internal teams and external partners.
-- Established program management frameworks to align deliverables with organizational strategy.
+- Coordinated projects across internal teams and external partners.
+- Set up program management processes to align deliverables with organizational strategy.
 - Managed software development prioritization and implementation roadmaps.
-- Implemented structured communication protocols to ensure project visibility and accountability.
 
 **Data Analyst** · GRAIL
 
-Led the workflow development of biosample management operations.
+Built out biosample management workflows and data infrastructure.
 
-- Designed and deployed data quality pipeline with end-to-end biospecimen tracking and data reconciliation.
-- Worked on AWS-based data warehouse, utilizing S3, Glue, Athena, and QuickSight.
-- Worked with software engineers as a project manager for technical development of internal systems.
+- Created a data quality pipeline for biospecimen tracking and reconciliation.
+- Worked on the AWS data warehouse (S3, Glue, Athena, QuickSight).
+- Acted as project manager for internal software development.
 
 **Clinical Data Manager** · Gilead Sciences
 
-- Managed data operations for Phase I clinical trials with focus on biomarker data.
+- Ran data operations for Phase I clinical trials, focusing on biomarker data.
 
 **Biosample Coordinator** · Genentech
 
-- Coordinated biosample management operations for clinical studies while maintaining data accuracy.
+- Managed biosample operations for clinical studies.
 
 ## Education
 
