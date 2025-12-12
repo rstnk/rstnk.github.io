@@ -48,11 +48,11 @@ Led the workflow development of biosample management operations.
 
 **Clinical Data Manager** · Gilead Sciences · Nov 2015–Jan 2018
 
-Managed data operations for Phase I clinical trials with focus on biomarker data.
+- Managed data operations for Phase I clinical trials with focus on biomarker data.
 
 **Biosample Coordinator** · Genentech · Dec 2012–Aug 2013
 
-Coordinated biosample management operations for clinical studies while maintaining data accuracy.
+- Coordinated biosample management operations for clinical studies while maintaining data accuracy.
 
 ## Education
 
