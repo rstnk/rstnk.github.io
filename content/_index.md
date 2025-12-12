@@ -12,9 +12,19 @@ hello@ | [rstk.dev](https://rstk.dev/) | [GitHub](https://github.com/rstnk)
 
 **Tools:** Git, dbt, Github Actions (CI/CD), Docker, Terraform (IaC), Claude Code (agentic coding tool)
 
+## Employment History
+
+| Company | Role | Dates |
+|---------|------|-------|
+| Delfi Diagnostics | Data Engineer | Apr 2022–Present |
+| N-Power Medicine | Program Manager | Oct 2021–Apr 2022 |
+| GRAIL | Data Analyst | Jan 2018–Oct 2021 |
+| Gilead Sciences | Clinical Data Manager | Nov 2015–Jan 2018 |
+| Genentech | Biosample Coordinator | Dec 2012–Aug 2013 |
+
 ## Experience
 
-**Data Engineer** · Delfi Diagnostics · Apr 2022–Present
+**Data Engineer** · Delfi Diagnostics
 
 Specializing in pipeline automation, data integration, and making data more accessible across the organization.
 
@@ -29,7 +39,7 @@ Specializing in pipeline automation, data integration, and making data more acce
 - Contributed to team documentation, including technical guides, best practices, and onboarding materials.
 - Built an LLM chatbot with DuckDB MCP server integration, enabling natural language queries of internal data.
 
-**Program Manager** · N-Power Medicine · Oct 2021–Apr 2022
+**Program Manager** · N-Power Medicine
 
 Drove cross-functional program management and software development initiatives.
 
@@ -38,7 +48,7 @@ Drove cross-functional program management and software development initiatives.
 - Managed software development prioritization and implementation roadmaps.
 - Implemented structured communication protocols to ensure project visibility and accountability.
 
-**Data Analyst** · GRAIL · Jan 2018–Oct 2021
+**Data Analyst** · GRAIL
 
 Led the workflow development of biosample management operations.
 
@@ -46,16 +56,17 @@ Led the workflow development of biosample management operations.
 - Worked on AWS-based data warehouse, utilizing S3, Glue, Athena, and QuickSight.
 - Worked with software engineers as a project manager for technical development of internal systems.
 
-**Clinical Data Manager** · Gilead Sciences · Nov 2015–Jan 2018
+**Clinical Data Manager** · Gilead Sciences
 
 - Managed data operations for Phase I clinical trials with focus on biomarker data.
 
-**Biosample Coordinator** · Genentech · Dec 2012–Aug 2013
+**Biosample Coordinator** · Genentech
 
 - Coordinated biosample management operations for clinical studies while maintaining data accuracy.
 
 ## Education
 
-**M.S. Molecular Biology** · San Jose State University · 2015
-
-**B.A. General Biology** · San Francisco State University · 2012
+| Degree | University | Year |
+|--------|------------|------|
+| M.S. Molecular Biology | San Jose State University | 2015 |
+| B.A. General Biology | San Francisco State University | 2012 |
