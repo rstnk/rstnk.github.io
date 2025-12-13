@@ -1,5 +1,5 @@
 ---
-title: "rustin k"
+title: "//rustin.k"
 ---
 
 hello@ | [rstk.dev](https://rstk.dev/) | [github](https://github.com/rstnk)
