@@ -1,8 +1,8 @@
 ---
-title: "Rustin K"
+title: "rustin k"
 ---
 
-hello@ | [rstk.dev](https://rstk.dev/) | [GitHub](https://github.com/rstnk)
+hello@ | [rstk.dev](https://rstk.dev/) | [github](https://github.com/rstnk)
 
 ## Skills
 
